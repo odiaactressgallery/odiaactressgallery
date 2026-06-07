@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Somalin Parida</title>
+</head>
+
+<body>
+
+<h1>Somalin Parida</h1>
+
+<a href="somalin_gallery1.html">Gallery 1</a><br><br>
+
+<a href="somalin_gallery2.html">Gallery 2</a><br><br>
+
+<a href="somalin_gallery3.html">Gallery 3</a><br><br>
+
+<a href="somalin_gallery4.html">Gallery 4</a><br><br>
+
+<a href="somalin_gallery5.html">Gallery 5</a><br><br>
+
+<a href="somalin_gallery6.html">Gallery 6</a><br><br>
+
+<a href="somalin_gallery7.html">Gallery 7</a><br><br>
+
+<a href="somalin_gallery8.html">Gallery 8</a><br><br>
+
+<a href="somalin_gallery9.html">Gallery 9</a><br><br>
+
+<a href="somalin_gallery10.html">Gallery 10</a><br><br>
+
+<a href="../../../index.html">Back to Home</a>
+
+</body>
+</html>
